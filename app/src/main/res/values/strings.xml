@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week4Day3</string>
+    <string name="sound_setting_receiver">Sound Setting Receiver</string>
+    <string name="bluetooth_receiver">Bluetooth Receiver</string>
+    <string name="location_receiver">Location Receiver</string>
+    <string name="battery_receiver">Battery Receiver</string>
+    <string name="airplane_mode_receiver">Airplane Mode Receiver</string>
+    <string name="broadcast_receivers">Broadcast Receivers</string>
+    <string name="nfc_receiver">NFC Receiver</string>
+    <string name="power_save_mode">Power Save Mode</string>
+</resources>
